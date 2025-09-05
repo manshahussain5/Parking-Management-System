@@ -14,14 +14,14 @@ import './App.css';
 // Auth-protected route
 function PrivateRoute({ children }) {
   const token = localStorage.getItem('token');
-  return token ? children : <Navigate to="/login" />;
+  return token ? children : <Navigate to="/login" replace />;
 }
 
 // Admin-protected route
 function AdminRoute({ children }) {
   const token = localStorage.getItem('token');
   const isAdmin = localStorage.getItem('isAdmin') === 'true';
-  return token && isAdmin ? children : <Navigate to="/admin/login" />;
+  return token && isAdmin ? children : <Navigate to="/admin/login" replace />;
 }
 
 function App() {

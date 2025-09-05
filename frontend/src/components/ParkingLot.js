@@ -4,11 +4,9 @@ import './ParkingLot.css';
 
 const ParkingLot = ({ lot, onRefresh }) => {
     const [bookingSlot, setBookingSlot] = useState(null);
-    const [refresh, setRefresh] = useState(false);
 
     const handleBooked = () => {
         setBookingSlot(null);
-        setRefresh(r => !r);
         if (onRefresh) onRefresh();
     };
 
