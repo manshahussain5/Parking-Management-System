@@ -1,0 +1,1132 @@
+{
+  "users": [
+    {
+      "id": "c7b3151f-0dcc-4662-9d4c-5438cde8086a",
+      "name": "ZAHID BASHIR ali",
+      "email": "mojeebyaeen260@gmail.com",
+      "password": "$2a$10$.iX.DLZFNkndWgEZ6T7XtOrD55USOs0hRRRBlzjbkSuiJueKsudi2",
+      "isAdmin": false
+    },
+    {
+      "id": "e13b154a-a6b7-4a28-8c54-e42f89388e28",
+      "name": "m mujeeb yasin",
+      "email": "text@gmail.com",
+      "password": "$2a$10$8Agwt6AA.8w45jtt7sj8PuachyDrV0VOd9YiSYjMBTyZ8mYMoxGRO",
+      "isAdmin": false
+    },
+    {
+      "id": "b7176173-44f8-4585-b5bf-0272bc81842f",
+      "name": "AC Master33",
+      "email": "text1@gmail.com",
+      "password": "$2a$10$XjU1lCvMzICI0SnpjCu1eew2PQfevy25rdzcdKkv6gefTbZ29uAzK",
+      "isAdmin": false
+    },
+    {
+      "id": "admin-id",
+      "name": "Admin User",
+      "email": "admin@example.com",
+      "password": "hashed-password",
+      "isAdmin": true
+    },
+    {
+      "id": "ecf90f5b-3612-46a4-b075-9effe0c2bf92",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$cXXKlNYZMsyNdtmNecWvOeM111QtsHleNdepbVN1Lnh5WJzkzuq1i",
+      "isAdmin": false
+    },
+    {
+      "id": "08a4178f-5fe4-4ad9-ae7d-0ed06096a233",
+      "name": "m mujeeb yasin",
+      "email": "mojeebyaeen261@gmail.com",
+      "password": "$2a$10$XFzNCLILwUzlMEY3sJvDy.E.XOGATQ7Xhw4./tTvRDYEUsLkOxV1.",
+      "isAdmin": true
+    },
+    {
+      "id": "be280d95-b72d-4e31-8f1a-6803ea0522fe",
+      "name": "admin1",
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$1/XQ57lBcS1YNOxu9rnVEOnvUQNnTSR032OKdrhawwkyGilYEg9XK",
+      "isAdmin": true
+    },
+    {
+      "id": "ac83847a-17e7-463c-b30d-fffaf448c388",
+      "name": "adddd",
+      "email": "admin66@gmail.com",
+      "password": "$2a$10$xdb9dxVqMdgHLY8qmtv7geHOyS9.MGA43vhWbulss.33EBZjc9OJO",
+      "isAdmin": false
+    },
+    {
+      "id": "f3b6db58-f512-4757-828b-c0a1d5ce5dd4",
+      "name": "test user",
+      "email": "test@gmail.com",
+      "password": "$2a$10$7XQq9zNUlgOnrREdJtwgv.IQWHFsF4/GoIHEoChAEV.S5L597h9Ay",
+      "isAdmin": false
+    },
+    {
+      "id": "ma91IxXVqNVtcwKPw9oW2L2w3iA2",
+      "name": "m mujeeb yasin ali",
+      "email": "admin123@gmail.com",
+      "password": "$2a$10$KlbXd1S8q353svr0uhyQWOpMaQDutjhg0AjmhFggHU/xOgec8kYAK",
+      "isAdmin": false
+    }
+  ],
+  "parkingLots": [
+    {
+      "id": "lot_1749588333363",
+      "name": "admin",
+      "location": "123 Main St, Cityvill new",
+      "slots": [
+        {
+          "id": "slot_lot_1749588333363_1",
+          "name": "S1",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_2",
+          "name": "S2",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_3",
+          "name": "S3",
+          "isAvailable": false
+        },
+        {
+          "id": "slot_lot_1749588333363_4",
+          "name": "S4",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_5",
+          "name": "S5",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_6",
+          "name": "S6",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_7",
+          "name": "S7",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_8",
+          "name": "S8",
+          "isAvailable": false
+        },
+        {
+          "id": "slot_lot_1749588333363_9",
+          "name": "S9",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_10",
+          "name": "S10",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_11",
+          "name": "S11",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_12",
+          "name": "S12",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_13",
+          "name": "S13",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_14",
+          "name": "S14",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_15",
+          "name": "S15",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_16",
+          "name": "S16",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_17",
+          "name": "S17",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_18",
+          "name": "S18",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_19",
+          "name": "S19",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_20",
+          "name": "S20",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_21",
+          "name": "S21",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_22",
+          "name": "S22",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_23",
+          "name": "S23",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_24",
+          "name": "S24",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_25",
+          "name": "S25",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_26",
+          "name": "S26",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_27",
+          "name": "S27",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_28",
+          "name": "S28",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_29",
+          "name": "S29",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_30",
+          "name": "S30",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_31",
+          "name": "S31",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_32",
+          "name": "S32",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_33",
+          "name": "S33",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_34",
+          "name": "S34",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_35",
+          "name": "S35",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_36",
+          "name": "S36",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_37",
+          "name": "S37",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_38",
+          "name": "S38",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_39",
+          "name": "S39",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_40",
+          "name": "S40",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_41",
+          "name": "S41",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_42",
+          "name": "S42",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_43",
+          "name": "S43",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_44",
+          "name": "S44",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_45",
+          "name": "S45",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_46",
+          "name": "S46",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_47",
+          "name": "S47",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_48",
+          "name": "S48",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_49",
+          "name": "S49",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_50",
+          "name": "S50",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_51",
+          "name": "S51",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_52",
+          "name": "S52",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_53",
+          "name": "S53",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_54",
+          "name": "S54",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_55",
+          "name": "S55",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_56",
+          "name": "S56",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_57",
+          "name": "S57",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_58",
+          "name": "S58",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_59",
+          "name": "S59",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_60",
+          "name": "S60",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_61",
+          "name": "S61",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_62",
+          "name": "S62",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_63",
+          "name": "S63",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_64",
+          "name": "S64",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_65",
+          "name": "S65",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_66",
+          "name": "S66",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_67",
+          "name": "S67",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_68",
+          "name": "S68",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_69",
+          "name": "S69",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_70",
+          "name": "S70",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_71",
+          "name": "S71",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_72",
+          "name": "S72",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_73",
+          "name": "S73",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_74",
+          "name": "S74",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_75",
+          "name": "S75",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_76",
+          "name": "S76",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_77",
+          "name": "S77",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_78",
+          "name": "S78",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_79",
+          "name": "S79",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_80",
+          "name": "S80",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_81",
+          "name": "S81",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_82",
+          "name": "S82",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_83",
+          "name": "S83",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_84",
+          "name": "S84",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_85",
+          "name": "S85",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_86",
+          "name": "S86",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_87",
+          "name": "S87",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_88",
+          "name": "S88",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_89",
+          "name": "S89",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_90",
+          "name": "S90",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_91",
+          "name": "S91",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_92",
+          "name": "S92",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_93",
+          "name": "S93",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_94",
+          "name": "S94",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_95",
+          "name": "S95",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_96",
+          "name": "S96",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_97",
+          "name": "S97",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_98",
+          "name": "S98",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_99",
+          "name": "S99",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749588333363_100",
+          "name": "S100",
+          "isAvailable": true
+        }
+      ]
+    },
+    {
+      "id": "lot_1749590305357",
+      "name": "admin",
+      "location": "123 Main St, Cityville",
+      "slots": [
+        {
+          "id": "slot_lot_1749590305357_1",
+          "name": "S1",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_2",
+          "name": "S2",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_3",
+          "name": "S3",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_4",
+          "name": "S4",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_5",
+          "name": "S5",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_6",
+          "name": "S6",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_7",
+          "name": "S7",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_8",
+          "name": "S8",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_9",
+          "name": "S9",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_10",
+          "name": "S10",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_11",
+          "name": "S11",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_12",
+          "name": "S12",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_13",
+          "name": "S13",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_14",
+          "name": "S14",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_15",
+          "name": "S15",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_16",
+          "name": "S16",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_17",
+          "name": "S17",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_18",
+          "name": "S18",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_19",
+          "name": "S19",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_20",
+          "name": "S20",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_21",
+          "name": "S21",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_22",
+          "name": "S22",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_23",
+          "name": "S23",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_24",
+          "name": "S24",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_25",
+          "name": "S25",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_26",
+          "name": "S26",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_27",
+          "name": "S27",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_28",
+          "name": "S28",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_29",
+          "name": "S29",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_30",
+          "name": "S30",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_31",
+          "name": "S31",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_32",
+          "name": "S32",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_33",
+          "name": "S33",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_34",
+          "name": "S34",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_35",
+          "name": "S35",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_36",
+          "name": "S36",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_37",
+          "name": "S37",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_38",
+          "name": "S38",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_39",
+          "name": "S39",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_40",
+          "name": "S40",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_41",
+          "name": "S41",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_42",
+          "name": "S42",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_43",
+          "name": "S43",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_44",
+          "name": "S44",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_45",
+          "name": "S45",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_46",
+          "name": "S46",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_47",
+          "name": "S47",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_48",
+          "name": "S48",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_49",
+          "name": "S49",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_50",
+          "name": "S50",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_51",
+          "name": "S51",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_52",
+          "name": "S52",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_53",
+          "name": "S53",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_54",
+          "name": "S54",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_55",
+          "name": "S55",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_56",
+          "name": "S56",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_57",
+          "name": "S57",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_58",
+          "name": "S58",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_59",
+          "name": "S59",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_60",
+          "name": "S60",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_61",
+          "name": "S61",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_62",
+          "name": "S62",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_63",
+          "name": "S63",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_64",
+          "name": "S64",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_65",
+          "name": "S65",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_66",
+          "name": "S66",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_67",
+          "name": "S67",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_68",
+          "name": "S68",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_69",
+          "name": "S69",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_70",
+          "name": "S70",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_71",
+          "name": "S71",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_72",
+          "name": "S72",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_73",
+          "name": "S73",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_74",
+          "name": "S74",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_75",
+          "name": "S75",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_76",
+          "name": "S76",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_77",
+          "name": "S77",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_78",
+          "name": "S78",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_79",
+          "name": "S79",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_80",
+          "name": "S80",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_81",
+          "name": "S81",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_82",
+          "name": "S82",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_83",
+          "name": "S83",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_84",
+          "name": "S84",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_85",
+          "name": "S85",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_86",
+          "name": "S86",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_87",
+          "name": "S87",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_88",
+          "name": "S88",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_89",
+          "name": "S89",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_90",
+          "name": "S90",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_91",
+          "name": "S91",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_92",
+          "name": "S92",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_93",
+          "name": "S93",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_94",
+          "name": "S94",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_95",
+          "name": "S95",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_96",
+          "name": "S96",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_97",
+          "name": "S97",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_98",
+          "name": "S98",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_99",
+          "name": "S99",
+          "isAvailable": true
+        },
+        {
+          "id": "slot_lot_1749590305357_100",
+          "name": "S100",
+          "isAvailable": true
+        }
+      ]
+    }
+  ],
+  "bookings": [
+    {
+      "id": "186af414-20ac-4baf-a8ea-f2932d1c8569",
+      "userId": "c7b3151f-0dcc-4662-9d4c-5438cde8086a",
+      "lotId": "lot1",
+      "slotId": "A1",
+      "date": "2025-09-09",
+      "time": "17:55",
+      "status": "cancelled",
+      "createdAt": "2025-06-10T16:44:18.380Z"
+    },
+    {
+      "id": "edb562d2-22a0-43fa-9f17-cec5857f4c87",
+      "userId": "b7176173-44f8-4585-b5bf-0272bc81842f",
+      "lotId": "lot1",
+      "slotId": "A3",
+      "date": "2025-06-10",
+      "time": "21:01",
+      "status": "active",
+      "createdAt": "2025-06-10T16:55:06.692Z"
+    },
+    {
+      "id": "e57bf59a-034f-47e8-8bd0-265892f58a3a",
+      "userId": "c7b3151f-0dcc-4662-9d4c-5438cde8086a",
+      "lotId": "lot_1749588333363",
+      "slotId": "slot_lot_1749588333363_8",
+      "date": "2025-06-11",
+      "time": "01:59",
+      "status": "active",
+      "createdAt": "2025-06-10T20:54:44.469Z"
+    },
+    {
+      "id": "53cf817f-84ea-4dd7-8745-01c56a89f7a7",
+      "userId": "f3b6db58-f512-4757-828b-c0a1d5ce5dd4",
+      "lotId": "lot_1749588333363",
+      "slotId": "slot_lot_1749588333363_3",
+      "date": "2025-06-11",
+      "time": "02:20",
+      "status": "active",
+      "createdAt": "2025-06-10T21:16:56.444Z"
+    }
+  ]
+}
